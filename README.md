@@ -1,2 +1,2 @@
 # Library_Managment_System
-I developed this project using java (Swing) and MySQL database.
+It is a Java Swing based Desktop Application build with MySQL database.
